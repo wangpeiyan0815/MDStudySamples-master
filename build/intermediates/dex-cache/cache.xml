@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_a8baf9e8abb277af5561b3c209b787242f77012f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_4d4303b088a51099ab96bc2ec3d598201195e596\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_000ca3f2c9cbe39ad2de1065c4922c6f66191830\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\palette-v7\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec3360994c4007c282a4b651723603e82682b601">
+        <dex dex="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-25.3.0_ba7e4ad5092335c1ae90b991c96267f9ebe0e956\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_d9eb2b02ee62f6187e74ac1504ed1886d5f83b22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_d90eb6a413478b56277fff553beebe971dc93142\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_63774f665a147bc7b5619cc2e5ea94edb05c37fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d487ff051a7cc5daec1b36668da9a4328dc9a54">
+        <dex dex="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_99f03283854cef3708255acb5cc7d56982d3f06f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_70998029ef4074cd2be1ef3bf2fb027192352eea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.0_ebdaa538efda03ab8c4519935e247a12b7e57f8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_a409c3ac030aa99842ba998118d35f7cb83b2f78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_c5ff9cb95f381d1c9b71cb84e902fc8c985a752d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_1d38e86ec34bac2fa217703a87fc29f6a4d802e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_9b2d8df1a2c7b3b80ece10941715eb724a3371b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.10.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.getbase-floatingactionbutton-1.10.1_50bed33aa54c034832412c0713a8855cc24df75a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b0cebc517b66431ee76948968df7576c954a6093">
+        <dex dex="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b896ed3f64fc583c4432a660d5a77fd19788073e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.0_63e90de4635b341ef8c1251136d6bd5b632d904e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_d45559652960a4faa01bb281ed7e20bce420ac52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_3af335a7da8bee78c1dbd8c2aaebf698b3ae55f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_427a2874ed914cf029b0aeefe677e967efa8441f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.0_ccf25e58f481c25eeb0dfbb82db4abdb938c3f39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="E:\ardoiDemo\MDStudySamples-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_c1ae5df40d66c8adae6a5c4766829678dffb348b\classes.dex" />
+    </item>
+
+</items>

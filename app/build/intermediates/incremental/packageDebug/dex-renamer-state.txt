@@ -1,0 +1,7 @@
+#Sun Sep 10 22:06:39 SGT 2017
+base.0=E\:\\ardoiDemo\\MDStudySamples-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_99f03283854cef3708255acb5cc7d56982d3f06f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\ardoiDemo\\MDStudySamples-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b896ed3f64fc583c4432a660d5a77fd19788073e\\classes.dex
+base.1=E\:\\ardoiDemo\\MDStudySamples-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b896ed3f64fc583c4432a660d5a77fd19788073e
+file.0=E\:\\ardoiDemo\\MDStudySamples-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_99f03283854cef3708255acb5cc7d56982d3f06f\\classes.dex

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\ardoiDemo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_cloud.png",
+        "source": "E:\\ardoiDemo\\MDStudySamples-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_cloud.png"
+    },
+    {
+        "merged": "E:\\ardoiDemo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_home.png",
+        "source": "E:\\ardoiDemo\\MDStudySamples-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_home.png"
+    },
+    {
+        "merged": "E:\\ardoiDemo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_explore.png",
+        "source": "E:\\ardoiDemo\\MDStudySamples-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_explore.png"
+    },
+    {
+        "merged": "E:\\ardoiDemo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_settings.png",
+        "source": "E:\\ardoiDemo\\MDStudySamples-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "E:\\ardoiDemo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_me.png",
+        "source": "E:\\ardoiDemo\\MDStudySamples-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_me.png"
+    }
+]

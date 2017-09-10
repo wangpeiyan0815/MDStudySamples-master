@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\ardoiDemo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_palette_02.jpg",
+        "source": "E:\\ardoiDemo\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_palette_02.jpg"
+    },
+    {
+        "merged": "E:\\ardoiDemo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\header.jpg",
+        "source": "E:\\ardoiDemo\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\header.jpg"
+    },
+    {
+        "merged": "E:\\ardoiDemo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_palette_01.jpg",
+        "source": "E:\\ardoiDemo\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_palette_01.jpg"
+    },
+    {
+        "merged": "E:\\ardoiDemo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_palette_03.jpg",
+        "source": "E:\\ardoiDemo\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_palette_03.jpg"
+    },
+    {
+        "merged": "E:\\ardoiDemo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_palette_00.jpg",
+        "source": "E:\\ardoiDemo\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_palette_00.jpg"
+    }
+]
